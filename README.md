@@ -1,11 +1,11 @@
 
-# Project Title
+# myFirstGit
 
-Your Project Title Here
+myFirstGit - Week 2 Workshop
 
 ## Project Description
 
-Provide a brief description of the project, outlining its purpose, functionality, and key features.
+myFirstGit is a example git project to demonstrate Git skills.
 
 ## Installation Instructions
 
