@@ -15,7 +15,7 @@ myFirstGit is a example git project to demonstrate Git skills.
    ```
 2. Navigate to the project directory:
    ```bash
-   cd your-repository
+   cd myFirstGit
    ```
 3. Install the necessary dependencies:
    ```bash
